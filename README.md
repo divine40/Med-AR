@@ -19,3 +19,7 @@ Figma Mockups
 System Architecture
 1. Development Platform: Unity
 2. AR Framework: AR Foundation / ARCore.
+Environment & Project Setup
+To set up this project locally, ensure you have Unity Hub and Android Studio (for SDK/JDK) installed.
+Clone the Repository: Bash
+git clone https://github.com/divine40/Med-AR
