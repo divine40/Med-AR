@@ -23,3 +23,22 @@ Environment & Project Setup
 To set up this project locally, ensure you have Unity Hub and Android Studio (for SDK/JDK) installed.
 Clone the Repository: Bash
 git clone https://github.com/divine40/Med-AR
+
+Unity Setup
+1. Open Unity Hub and Add the project.
+2. Ensure Unity 2022.3 LTS is installed.
+3. Go to Window > Package Manager and ensure AR Foundation and ARCore XR Plugin are installed
+
+Build Settings
+1. Go to File > Build Settings and switch the platform to Android.
+2. In Project Settings > XR Plug-in Management, check the ARCore box.
+
+Hardware Requirements:
+1. An ARCore-supported Android device (Running Android 7.0 or higher).
+2. USB-C cable for sideloading the apk.
+
+Author
+Akunyiba Chimdalu (Divine) Final Year Student, African Leadership University
+
+AR/VR Track 
+
