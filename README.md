@@ -15,7 +15,8 @@ Figma Mockups
 1. The user interface is designed with a "Medical-First" philosophy, focusing on clarity, minimal occlusion of the AR viewport, and ease of thumb-reach for mobile users.
 2. Main Dashboard: Card-based navigation for selecting anatomical systems.
 3. AR Interface: Heads-up display (HUD) featuring layered visibility controls and gesture-based transformation tools.
- User Flow: Link to Figma: https://drive.google.com/drive/folders/1jMBrY8ED78xZFfx_N7KP4EUe06aOu1rJ?usp=drive_link
+ User Flow: Link to Figma: https://www.figma.com/design/M3aQDMXqSMYPHRzn5Zu88J/Design-main-menu-and-AR-overlay--Copy-?node-id=0-1&p=f&t=gMPQyyfJHTIgflT7-0
+Prototype Link: https://www.figma.com/proto/M3aQDMXqSMYPHRzn5Zu88J/Design-main-menu-and-AR-overlay--Copy-?node-id=0-3&p=f&t=tJHkIGyQi2mpjVYW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 System Architecture
 1. Development Platform: Unity
 2. AR Framework: AR Foundation / ARCore.
